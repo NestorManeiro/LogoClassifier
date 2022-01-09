@@ -50,7 +50,7 @@ model.compile(loss=tf.keras.losses.categorical_crossentropy,
               metrics=['accuracy'])
   
   
-#Tabla de Eficiencia:
+# Tabla de Eficiencia:
 
 ![image](https://user-images.githubusercontent.com/91387558/148698114-ab8ff636-3d0f-46ba-9e65-4af2ddaa38e4.png)
 
